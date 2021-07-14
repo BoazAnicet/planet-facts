@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Antonio:wght@500&family=Spartan:wght@400;700&display=swap");
+
+body,
+html {
+  font-family: "Spartan", BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
+    Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body {
+  font-family: "Spartan";
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 25px;
+  letter-spacing: 0;
+}
+
+h1 {
+  font-family: "Antonio";
+  font-weight: 500;
+  font-size: 80px;
+  line-height: 103px;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: "Antonio";
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 52px;
+  letter-spacing: -1.5px;
+}
+
+h3 {
+  font-family: "Spartan";
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 25px;
+  letter-spacing: 2.6px;
+}
+
+h4 {
+  font-family: "Spartan";
+  font-weight: 700;
+  font-size: 11px;
+  line-height: 25px;
+  letter-spacing: 1px;
+}
